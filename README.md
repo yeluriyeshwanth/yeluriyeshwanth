@@ -299,22 +299,21 @@ A healthcare-focused software concept designed to improve medication adherence w
 
 <div align="center">
 
-<a href="https://github.com/yeshwanthyluri">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yeshwanthyluri&show_icons=true&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/yeluriyeshwanth">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yeluriyeshwanth&show_icons=true&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED&include_all_commits=true&count_private=true"/>
 </a>
 
-<a href="https://github.com/yeshwanthyluri">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeshwanthyluri&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=E9D5FF&langs_count=8"/>
+<a href="https://github.com/yeluriyeshwanth">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeluriyeshwanth&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=A78BFA&text_color=E9D5FF&langs_count=8"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/yeshwanthyluri">
-<img src="https://streak-stats.demolab.com?user=yeshwanthyluri&theme=transparent&hide_border=true&background=0D0B1F&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=94A3B8" />
+<a href="https://github.com/yeluriyeshwanth">
+<img src="https://streak-stats.demolab.com?user=yeluriyeshwanth&theme=transparent&hide_border=true&background=0D0B1F&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=A78BFA&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=94A3B8"/>
 </a>
 
 </div>
-
 ---
 
 ## GitHub Trophies
