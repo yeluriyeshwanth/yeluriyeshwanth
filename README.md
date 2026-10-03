@@ -316,35 +316,6 @@ A healthcare-focused software concept designed to improve medication adherence w
 </div>
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yeluriyeshwanth&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeluriyeshwanth&bg_color=0D0B1F&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
-
-</div>
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yeshwanthyluri/yeshwanthyluri/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
